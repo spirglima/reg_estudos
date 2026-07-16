@@ -1,2 +1,2 @@
 # reg_estudos
-app simples para registrar estudos diários
+App simples para registrar estudos diários
